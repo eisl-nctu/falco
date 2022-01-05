@@ -1,2 +1,2 @@
 # falco
-A out-of-order superscalar
+An out-of-order superscalar.
