@@ -6,4 +6,4 @@ Falco is a 32-bit RISC-V core supporting RV32-IM instruction set. It has a 8-sta
 
 ![](docs/falco.jpg)
 
-Currentyl the performance pf Falco is around 1.84 DMIPS/Mhz and 2.67 CoreMark/Mhz.
+Currentyl the performance of Falco is around 1.84 DMIPS/Mhz and 2.67 CoreMark/Mhz.
